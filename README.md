@@ -2,5 +2,3 @@
 team bios
 
 
-Blake Krupa
-
